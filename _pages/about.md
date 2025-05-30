@@ -8,11 +8,11 @@ redirect_from:
 ---
 
 <h2> Howard Straubing </h2>
-<p> Professor </p>
-<p> Computer Science Department </p>
-<p>Boston College</p>
-<p>245 Beacon Street, Room 507</p>
-<p>Chestnut Hill, Massachusetts 02476</p>
+<p> Professor 
+Computer Science Department 
+Boston College
+245 Beacon Street, Room 507
+Chestnut Hill, Massachusetts 02476
 
 
 
