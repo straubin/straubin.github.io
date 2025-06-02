@@ -6,7 +6,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-<body style="background-color:powderblue;">
+
 <h2> Howard Straubing </h2>
 <p> Professor <br/>
 Computer Science Department <br/> 
