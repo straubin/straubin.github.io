@@ -1,4 +1,4 @@
-# Welcome to Jekyll!
+d# Welcome to Jekyll!
 #
 # This config file is meant for settings that affect your entire site, values
 # which you are expected to set up once and rarely need to edit after that.
@@ -25,7 +25,7 @@ author:
   avatar           : "profile.png"
   name             : "Howard Straubing"
   pronouns         : # example: "she/her"  
-  bio              : "Professor of Computer Science"
+  bio              : "Professor Emeritus, Computer Science"
   location         : # 
   employer         : "Boston College"
   uri              : # URL
