@@ -8,11 +8,10 @@ redirect_from:
 ---
 
 <h2> Howard Straubing </h2>
-<p> Professor <br/>
-Computer Science Department <br/> 
+<p> Professor Emeritus<br/> 
 Boston College <br/>
-245 Beacon Street, Room 507 <br/>
-Chestnut Hill, Massachusetts 02476
+Computer Science Department <br/>
+
 
 
 
